@@ -1,0 +1,4 @@
+user.name@domain.com
+user+mailbox@work.com
+support@sub.domain.com
+"quoted space"@example.com
